@@ -1,19 +1,16 @@
 specification: API Commons Plans
 specificationVersion: '0.1'
-schema: https://raw.githubusercontent.com/api-evangelist/interface-research/main/schema/api-commons.yml#/$defs/Plans
-provider: data.gov.uk UK National
+provider: UK Government Open Data
 providerId: data-gov-uk
-created: '2026-06-04'
-modified: '2026-06-04'
+created: '2026-06-07'
+modified: '2026-06-07'
 reconciled: false
 tags:
 - Open Data
 - CKAN
 - Plans
 description: >-
-  data.gov.uk UK National is a public open-data portal. Its catalog API is offered free of charge for
-  public, programmatic access; no commercial plan or paid tier applies. Bulk or
-  high-volume harvesting should be done politely and may be subject to fair-use limits.
+  UK Government Open Data is a public open-data portal. Its catalog API is offered free of charge.
 notes: Free / open public data API. No commercial pricing.
 sources:
 - https://raw.githubusercontent.com/api-evangelist/data-gov-uk/refs/heads/main/apis.yml

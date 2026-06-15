@@ -1,17 +1,15 @@
-# data.gov.uk UK National (data-gov-uk)
+# UK Government Open Data (data-gov-uk)
 
-data.gov.uk UK National is a national government open-data portal for United Kingdom running **CKAN**, exposing a standardized catalog API over ~57,757 datasets.
+UK Government Open Data is a national government open-data portal for United Kingdom running **CKAN**, exposing a standardized catalog API over ~57,791 datasets.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/data-gov-uk/refs/heads/main/apis.yml)
-
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=data-gov-uk-api-evangelist&utm_content=repo)
 
 ## Type
 - **kind:** government  ·  **software:** CKAN
 
 ## API
-- **data.gov.uk UK National CKAN Action API** — base `https://data.gov.uk/api/3/action`. [Docs](https://docs.ckan.org/en/latest/api/) · [Portal](https://data.gov.uk)
-- Live endpoint verified: `https://data.gov.uk/api/3/action/package_search?rows=0` · ~57,757 datasets
+- **UK Government Open Data CKAN Action API** — base `https://www.data.gov.uk/api/3/action`. [Docs](https://docs.ckan.org/en/latest/api/) · [Portal](https://www.data.gov.uk)
+- Live endpoint verified: `https://www.data.gov.uk/api/3/action/package_search?rows=0`
 
 ## Plans, Rate Limits, FinOps
 - [Plans](plans/data-gov-uk-plans-pricing.yml) — Free / open public data API.
@@ -19,8 +17,8 @@ data.gov.uk UK National is a national government open-data portal for United Kin
 - [FinOps](finops/data-gov-uk-finops.yml) — Public open data; no usage-based billing.
 
 ## Timestamps
-- **Created:** 2026-06-04
-- **Modified:** 2026-06-04
+- **Created:** 2026-06-07
+- **Modified:** 2026-06-07
 
 ## Maintainers
 **FN:** Kin Lane
