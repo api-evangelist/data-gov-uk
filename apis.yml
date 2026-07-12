@@ -41,6 +41,10 @@ apis:
       - type: x-api-endpoint
         url: https://www.data.gov.uk/api/3/action/package_search?rows=0
 common:
+  - type: VulnerabilityDisclosure
+    url: security/data-gov-uk-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/data-gov-uk-domain-security.yml
   - type: Website
     url: https://www.data.gov.uk
   - type: Documentation
